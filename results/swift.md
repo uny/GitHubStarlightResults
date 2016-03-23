@@ -2,7 +2,7 @@
 Search query: language:swift+stars:20..100000
 
 |Name|Stars|Description|
-|:---:|:---:|:---:|
+|:---:|:---:|:---|
 |[Alamofire/Alamofire](https://api.github.com/repos/Alamofire/Alamofire)|15471|Elegant HTTP Networking in Swift|
 |[vsouza/awesome-ios](https://api.github.com/repos/vsouza/awesome-ios)|10141|A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |
 |[SwiftyJSON/SwiftyJSON](https://api.github.com/repos/SwiftyJSON/SwiftyJSON)|9304|The better way to deal with JSON data in Swift|
