@@ -1,5 +1,5 @@
 # GitHub Search Result
-Search query: language:swift+stars:1..20000+pushed:2016-01-01..2016-03-24
+Search query: language:swift+stars:10..20000+pushed:2016-01-01..2016-03-24
 
 |Name|Stars|Description|
 |:---:|:---:|:---|
